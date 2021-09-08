@@ -1,1 +1,1 @@
-
+sudo apt install mariadb -y
