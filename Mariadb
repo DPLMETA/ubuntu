@@ -1,1 +1,2 @@
-sudo apt install mariadb -y
+#Instalando Maria DB
+sudo apt install mariadb-server -y
